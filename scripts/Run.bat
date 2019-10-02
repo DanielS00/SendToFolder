@@ -1,3 +1,3 @@
 @echo off
 cls
-python ..\main.py %*
+python ..\src\sendtofolder.py %*

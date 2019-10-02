@@ -1,6 +1,6 @@
 @echo off
 cls
 :start
-python ..\main.py %*
+python ..\src\sendtofolder.py %*
 pause
 goto start

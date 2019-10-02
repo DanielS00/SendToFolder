@@ -25,8 +25,8 @@ def main():
             elif answer != 'n':
                 print('Please type y or n.')
 
-    print('Do you want to configure SendToFolder settings?')
-    configure()
+    #print('Do you want to configure SendToFolder settings?')
+    #configure()
 
 if __name__ == '__main__':
     main()
