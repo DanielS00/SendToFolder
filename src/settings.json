@@ -1,0 +1,12 @@
+{
+    "ignored_path_names": [
+        ":\\Program Files$",
+        ":\\Program Data$",
+        ":\\Windows",
+        ":\\Users$",
+        ":\\Users\\.+\\AppData\\.+\\w$"
+    ],
+    "nested_folders": 0,
+    "maximum_file_size": 0,
+    "maximum_folder_size": 10000
+}
