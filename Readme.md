@@ -4,4 +4,4 @@ SendToFolder is a simple Python tool that adds an option to **Send To Folder** u
 ![Demonstration](https://i.imgur.com/20nNSZQ.gif)
 
 # Installation
-To install SendToFolder you need to run SendToFolder.bat, which will then prompt you whether or not you want to install SendToFolder.
+To install SendToFolder you need to run install.bat.
